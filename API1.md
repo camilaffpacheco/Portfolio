@@ -27,6 +27,14 @@
 </p>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
+  <h3> Atribuições como PO</h3>
+ <p align="justify" style="font-family:roboto;">
+  Desempenhando o papel de Product Owner, uma das minhas principais contribuições foi capturar os requisitos de maneira clara, dessa forma pude construir o backlog do produto. A partir do backlog priorizei todos os itens de forma estratégica com base no valor para o cliente para garantir que as funcionalidades mais importantes fossem desenvolvidas primeiro. Além disso facilitei a comunicação entre todo o time e a empresa parceira, realizando perguntas.
+ </p>
+  <h3> Atribuições como Desenvolvedora</h3>
+  <p align="justify" style="font-family:roboto;">
+ Desempenhando o papel de Desenvolvedora Full Stack, contribui com a criação de um produto com  todas as funcionalidades necessárias e que atendesse a expectativa do cliente. No Frontend, fui responsável pela criação de interfaces, tais como: Cadastro de Funcionário, Cadastro de Jornada, Visualização de Jornada, entre outras. No Backend, desenvolvi os métodos que foram utilizados no Frontend, tais como: BuscaCEP, Cadastro de Motorista, entre outros. Além disso, estabeleci a integração entre o Backend e o Banco de Dados.
+  </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
  
