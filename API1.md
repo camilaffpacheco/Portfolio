@@ -1,8 +1,13 @@
 <html>
 <body>
-<h1 align="center"> iTruck - 1° API</h1>
-<a href="https://github.com/thaisrabelo/iTruck"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
  
+<h1 align="center"> iTruck - 1° API
+ <br>
+  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iTruck-logo.png" height="220" width="230"/>
+ <br>
+<a href="https://github.com/thaisrabelo/iTruck"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+</h1>
+
 <h2> Parceiro Acadêmico: <a href="https://www.iacit.com.br/">IACIT</a></h2>
 <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iacit-logo.jpg" height="110" width="230"/>
   
@@ -20,6 +25,8 @@
   <img src="https://img.shields.io/badge/tecnologias-GitHub-lightblue"> 
   <img src="https://img.shields.io/badge/tecnologias-Microsoft%20Teams-blue">
 </p>
+ 
+ <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
             
 </body>
 </html>
