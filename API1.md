@@ -39,6 +39,57 @@
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
+  <p align="justify" style="font-family:roboto;">
+   Com o projeto tive meu primeiro contato com o papel de Product Owner, adquiri habilidades de comunicação assertiva, estabelecendo uma comunicação clara e constante tanto com a empresa quanto com a equipe. Aprendi a compreender as necessidades do cliente e a priorizar tarefas de forma eficiente, garantindo uma entrega de valor e qualidade. Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Java e adquirir experiência inicial com o banco de dados PostGreSQL. Além disso, aprendi a Metodologia Ágil Scrum, incorporando os princípios e práticas dessa abordagem em nosso processo de desenvolvimento.
+ </p>
+   
+   <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="350px">Tecnologia/Metodologia</th>
+      <th width="350px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Ágil Scrum - Product Owner</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>PostGreSQL</td>
+      <td>★★★☆☆</td>
+    </tr>	
+    <tr>
+      <td>Java</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Java JRE</td>
+      <td>★★★★☆</td>
+    </tr>
+   <tr>
+      <td>GIT</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="350px">Habilidade</th>
+      <th width="350px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
             
 </body>
 </html>
