@@ -1,10 +1,10 @@
 <html>
 <body>
 <h1 align="center"> iTruck - 1° API</h1>
-<a href=""><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/thaisrabelo/iTruck"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
  
 <h2> Parceiro Acadêmico: <a href="https://www.iacit.com.br/">IACIT</a></h2>
-<img src="" height="100" width="230"/>
+<img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iacit-logo.jpg" height="110" width="230"/>
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
 <p align="justify" style="font-family:roboto;"> O iTruck é um sistema para o gerenciamento e controle da jornada de trabalho de motoristas que seja parametrizável visando à disponibilização de funcionalidades de planejamento, acompanhamento, controlando a jornada de trabalho de cada um desses colaboradores. Nosso sistema deverá oferecer um cadastro de funcionário de vários níveis de acesso, um cadastro para os dados do veículo, um cadastro para dados de filiais, um cadastro para dados de região e um cadastro para dados da jornada dos motorista.</p>
