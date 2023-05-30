@@ -62,7 +62,8 @@
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   ...
+   Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Frontend e Lógica de Programação ao desenvolver um tipo de aplicação com o qual nunca havia tido contato anteriormente.
+   Essa experiência também me me permitiu adquirir novos conhecimentos em Thymeleaf e Java. Além disso pude refinar meus conceitos de design.
  </p>
    
    <h3 align="center"> Hard Skills </h3>
