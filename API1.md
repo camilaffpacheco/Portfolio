@@ -33,7 +33,7 @@
  </p>
   <h3> Atribuições como Desenvolvedora</h3>
   <p align="justify" style="font-family:roboto;">
- Desempenhando o papel de Desenvolvedora Full Stack, contribui com a criação de um produto com  todas as funcionalidades necessárias e que atendesse a expectativa do cliente. No Frontend, fui responsável pela criação de interfaces, tais como: Cadastro de Funcionário, Cadastro de Jornada, Visualização de Jornada, entre outras. No Backend, desenvolvi os métodos que foram utilizados no Frontend, tais como: BuscaCEP, Cadastro de Motorista, entre outros. Além disso, estabeleci a integração entre o Backend e o Banco de Dados.
+ Desempenhando o papel de Desenvolvedora Full Stack, contribui com a criação de um produto com  todas as funcionalidades necessárias e que atendesse a expectativa do cliente. No Frontend, fui responsável pela criação de interfaces, tais como: Cadastro de Funcionário, Cadastro de Jornada, Relatório, Auditoria entre outras. No Backend, desenvolvi os métodos que foram utilizados no Frontend, tais como: BuscaCEP, Cadastro de Motorista, Auditoria entre outros. Além disso, estabeleci a integração entre o Backend e o Banco de Dados.
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
