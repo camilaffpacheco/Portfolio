@@ -18,6 +18,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  </p>
   
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
+ <div>
     <a href="gttps://github.com">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
@@ -34,6 +35,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
     <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
+     </div>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
