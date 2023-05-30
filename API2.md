@@ -3,47 +3,52 @@
  
  <h1 align="center"> NEDUC - 2° API
  <br>
-  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iTruck-logo.png" height="220" width="230"/>
+  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/neduc.png"/>
  <br>
-<a href="https://github.com/thaisrabelo/iTruck"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DevSlim001/API_NEDUC"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
 
- <h2> Parceiro Acadêmico:<a href="https://www.iacit.com.br/"> IACIT</a></h2>
-<img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iacit-logo.jpg" height="115" width="230"/>
+ <h2> Parceiro Acadêmico:<a href="https://ness.com.br/health.php"> NESS Health</a></h2>
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> O iTruck é um sistema para o gerenciamento e controle da jornada de trabalho de motoristas que seja parametrizável visando à disponibilização de funcionalidades de planejamento, acompanhamento, controlando a jornada de trabalho de cada um desses colaboradores. Nosso sistema deverá oferecer um cadastro de funcionário de vários níveis de acesso, um cadastro para os dados do veículo, um cadastro para dados de filiais, um cadastro para dados de região e um cadastro para dados da jornada dos motorista.</p>
+<p align="justify" style="font-family:roboto;"> Com a pandemia do COVID-19, começamos a buscar cada vez mais formas de interagir de forma segura com outras pessoas, graças a tecnologia esse relacionamento à distância não foi um problema. Hoje em dia, trabalhamos de casa, falamos com nossos familiares por chamada de vídeo, fazemos reuniões e seminários por plataformas da web. Da mesma forma que tudo se adaptou durante esse período, com a educação e o ensino não podia ser diferente. <br>
+De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingressantes, mostra censo do Inep - um aumento de 4,7 vezes, com a pandemia, esse número só cresceu, não porque milhões de pessoas se matricularam em cursos EaD, mas sim pelo fato de que todas as instituições de ensino (em especial as que oferecem cursos presenciais) não podiam deixar de oferecer educação que é direito de todos.
+ <br>
+ Visando os fatores citados, a nEDUC é uma plataforma de ensino digital com ampla variedade de conteúdo de qualidade para superar as limitações do ensino no Brasil.
+ </p>
   
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
-<p>
-  <img src="https://img.shields.io/badge/tecnologias-Java%20JDK%208-orange">
-  <img src="https://img.shields.io/badge/tecnologias-Java%20JRE-orange"> 
-  <img src="https://img.shields.io/badge/tecnologias-PostgreSQL%20JDBC%3A%2042.2.16-orange">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/prototipação-Figma-ff69b4">  
-  <img src="https://img.shields.io/badge/tecnologias-GitHub-lightblue"> 
-  <img src="https://img.shields.io/badge/tecnologias-Microsoft%20Teams-blue">
-</p>
+    <a href="gttps://github.com">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.java.com/pt-BR/">
+        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href="https://spring.io">
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+    <a href="https://www.mysql.com">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
-  <h3> Atribuições como PO</h3>
- <p align="justify" style="font-family:roboto;">
-  Desempenhando o papel de Product Owner, uma das minhas principais contribuições foi capturar os requisitos de maneira clara, dessa forma pude construir o backlog do produto. A partir do backlog priorizei todos os itens de forma estratégica com base no valor para o cliente para garantir que as funcionalidades mais importantes fossem desenvolvidas primeiro. Além disso facilitei a comunicação entre todo o time e a empresa parceira, realizando perguntas.
- </p>
-  <h3> Atribuições como Desenvolvedora</h3>
+  <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
- Desempenhando o papel de Desenvolvedora Full Stack, contribui com a criação de um produto com  todas as funcionalidades necessárias e que atendesse a expectativa do cliente. No Frontend, fui responsável pela criação de interfaces, tais como: Cadastro de Funcionário, Cadastro de Jornada, Relatório, Auditoria entre outras. No Backend, desenvolvi os métodos que foram utilizados no Frontend, tais como: BuscaCEP, Cadastro de Motorista, Auditoria entre outros. Além disso, estabeleci a integração entre o Backend e o Banco de Dados.
+...
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
-      <img src = "https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/video-iTruck.gif"/>
+      <img src = ""/>
    </div>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   Com o projeto tive meu primeiro contato com o papel de Product Owner, adquiri habilidades de comunicação assertiva, estabelecendo uma comunicação clara e constante tanto com a empresa quanto com a equipe. Aprendi a compreender as necessidades do cliente e a priorizar tarefas de forma eficiente, garantindo uma entrega de valor e qualidade. Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Java e adquirir experiência inicial com o banco de dados PostGreSQL. Além disso, aprendi a Metodologia Ágil Scrum, incorporando os princípios e práticas dessa abordagem em nosso processo de desenvolvimento.
+   ...
  </p>
    
    <h3 align="center"> Hard Skills </h3>
