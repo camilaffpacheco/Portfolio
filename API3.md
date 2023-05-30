@@ -3,13 +3,13 @@
  
  <h1 align="center"> DescontOn - 3° API
  <br>
-  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/DescontOn.png"/>
+  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/DescontOn.png" height="40%" width="40%"/>
  <br>
 <a href="https://github.com/DolphinDatabase/DescontOn/"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
 
  <h2> Parceiro Acadêmico:<a href="https://midall.com.br/"> MidAll</a></h2>
- <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logo_site_midall.png" height="15%" width="15%"/>
+ <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logo midall.webp" height="20%" width="20%"/>
   
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
