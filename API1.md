@@ -38,8 +38,7 @@
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
-     <video src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/video-iTruck.mp4" controls="controls">
-     </video>    
+      <img src = ""/>
    </div>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
