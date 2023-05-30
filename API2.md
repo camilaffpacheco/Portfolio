@@ -56,7 +56,8 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   ...
+   Como desenvolvedora, tive a oportunidade de aperfeiçoar meu conhecimento em Frontend e adquirir uma experiência inicial com o template Thymeleaf. Além disso, adquiri habilidades na manipulação e integração de formulários do Google dentro do sistema. Também tive a chance de me envolver na criação de certificados dentro do contexto do projeto.
+Ademais, tive a oportunidade de continuar meu desenvolvimento no método ágil Scrum, o qual me proporcionou valiosas lições e novos conhecimentos.
  </p>
    
    <h3 align="center"> Hard Skills </h3>
