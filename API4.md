@@ -46,7 +46,9 @@
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
-...
+
+[<img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/telaLogin.png" width="40%">](https://www.youtube.com/watch?v=yVF6tg5Zu9Q "Vídeo Demonstração")
+   
    </div>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
