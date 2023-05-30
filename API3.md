@@ -9,6 +9,8 @@
 </h1>
 
  <h2> Parceiro Acadêmico:<a href="https://midall.com.br/"> MidAll</a></h2>
+ <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logo_site_midall.png" height="15%" width="15%"/>
+  
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
 <p align="justify" style="font-family:roboto;"> Ferramenta para criar promoções de E-commerce, onde as mecânicas de promoções são feitas de forma flexível e
