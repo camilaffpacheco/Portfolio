@@ -30,7 +30,9 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <a href="https://spring.io">
+     <a href="https://www.thymeleaf.org/"><img src =
+"https://img.shields.io/badge/Thymeleaf-50df26?style=for-the-badge&logoColor=white" /></a>
+     <a href="https://spring.io">
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
     <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
