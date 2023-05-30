@@ -9,6 +9,8 @@
 </h1>
 
  <h2> Parceiro Acadêmico:<a href="https://ness.com.br/health.php"> NESS Health</a></h2>
+ <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/ness-logo-website.svg" height="115" width="230"/>
+ 
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
 <p align="justify" style="font-family:roboto;"> Com a pandemia do COVID-19, começamos a buscar cada vez mais formas de interagir de forma segura com outras pessoas, graças a tecnologia esse relacionamento à distância não foi um problema. Hoje em dia, trabalhamos de casa, falamos com nossos familiares por chamada de vídeo, fazemos reuniões e seminários por plataformas da web. Da mesma forma que tudo se adaptou durante esse período, com a educação e o ensino não podia ser diferente. <br>
