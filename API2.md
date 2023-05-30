@@ -44,7 +44,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-...
+   Como desenvolvedora Frontend, desempenhei um papel na criação de diversas interfaces, incluindo recursos como Login, Cadastro de Cursos e Tarefas, entre outros. Um aspecto relevante da minha contribuição foi a utilização do template Thymeleaf, que combina a sintaxe HTML com atributos e expressões Thymeleaf específicas, permitindo uma inclusão dinâmica de valores e lógica nos templates. Além disso, fui responsável pela implementação dos certificados, que são automaticamente gerados e disponibilizados ao final de cada curso concluído pelos usuários. Também contribui com a criação das tarefas, as quais foram integradas aos formulários Google. Por fim, colaborei na seção de videoaulas, onde os usuários têm a capacidade de visualizar vídeos para o aprendizado.
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
