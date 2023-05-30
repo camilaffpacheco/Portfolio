@@ -61,10 +61,10 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum - Product Owner</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>PostGreSQL</td>
+      <td>MySQL</td>
       <td>★★★☆☆</td>
     </tr>	
     <tr>
@@ -77,7 +77,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
     </tr>
    <tr>
       <td>GIT</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
   
@@ -89,11 +89,11 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
