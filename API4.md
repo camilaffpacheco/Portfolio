@@ -11,9 +11,7 @@
   
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> Temos um desafio de sincronização dos dados administrativos, financeiros e operacionais referentes 
-  aos serviços prestados pela empresa. A falta de organização dos dados acarreta lentidão para atender chamados, e confusão na interpretação dos 
-  indicadores comerciais e financeiros. </p>
+<p align="justify" style="font-family:roboto;"> Plataforma que sincroniza, gerencia e controla os dados administrativos, financeiros e operacionais da empresa. Com a falta de organização desses dados, ocorrem atrasos no atendimento de chamados e dificuldades na interpretação dos indicadores comerciais e financeiros. Nossa solução visa reduzir custos, agilizar tomadas de decisão, otimizar o tempo de atendimento e melhorar a resolução desses chamados.</p>
   
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
  <div>
@@ -48,8 +46,7 @@
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
-
-[<img src="https://github.com/DolphinDatabase/DescontOn/blob/47f0f23ee3d7710b472fc1ff26d06da50237681e/Imagens/imagem_2022-04-15_155641874.png" width="40%">](https://youtu.be/NhDe9-Z_dvk "DescontOn vídeo Demonstração")
+...
    </div>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
@@ -67,6 +64,10 @@
       <td>Metodologia Ágil Scrum</td>
       <td>★★★★☆</td>
     </tr>
+    <tr>
+      <td>VueJS</td>
+      <td>★★★★☆</td>
+    </tr>
      <tr>
       <td>HTML5</td>
       <td>★★★★☆</td>
@@ -77,14 +78,10 @@
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>	
      <tr>
       <td>BootStrap</td>
-      <td>★★★★☆</td>
-    </tr>
-        <tr>
-      <td>Thymeleaf</td>
       <td>★★★★☆</td>
     </tr>
     <tr>
@@ -117,15 +114,15 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
             
