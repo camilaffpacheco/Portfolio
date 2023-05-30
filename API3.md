@@ -48,9 +48,9 @@
 </div>
  
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
-  <h3> Atribuições como Desenvolvedora Frontend</h3>
+  <h3> Atribuições como Desenvolvedora</h3>
   <p align="justify" style="font-family:roboto;">
-...
+     Como desenvolvedora, tive a oportunidade de contribuir na criação de diversas interfaces, abrangendo recursos como Cadastro de Promoções, Sacola de Compras, Lista de Promoções, entre outros. Além disso, desempenhei um papel na estruturação da lógica do projeto, uma vez que ele se tratava de um sistema complexo de gerenciamento de promoções, que envolvia diferentes tipos de promoções. Com minha experiência prévia em Thymeleaf, pude também contribuir com conhecimentos nessa área.
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
