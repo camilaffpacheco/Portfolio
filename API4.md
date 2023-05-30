@@ -7,7 +7,7 @@
 </h1>
 
  <h2> Parceiro Acadêmico:<a href="https://pqtec.org.br/empresas/subiter/"> Subiter</a></h2>
- <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logosubiter.png" height="220" width="390"/>
+ <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logosubiter.png" height="200" width="390"/>
   
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
