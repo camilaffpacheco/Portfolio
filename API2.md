@@ -73,6 +73,10 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
       <td>CSS3</td>
       <td>★★★★☆</td>
     </tr>
+           <tr>
+      <td>Thymeleaf</td>
+      <td>★★★★☆</td>
+    </tr>
     <tr>
       <td>MySQL</td>
       <td>★★★☆☆</td>
