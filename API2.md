@@ -49,7 +49,9 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
-      <img src = ""/>
+     <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/Cadastro-de-curso-e-tarefa.gif"/>
+     <br><br>
+     <img src = "https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/Gerarcertificado.gif"/>
    </div>
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
