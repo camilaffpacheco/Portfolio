@@ -41,7 +41,6 @@
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-...
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
@@ -53,7 +52,6 @@
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   ...
  </p>
    
    <h3 align="center"> Hard Skills </h3>
