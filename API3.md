@@ -81,9 +81,17 @@
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>MySQL</td>
+      <td>JavaScript</td>
       <td>★★★☆☆</td>
     </tr>	
+     <tr>
+      <td>BootStrap</td>
+      <td>★★★★☆</td>
+    </tr>
+        <tr>
+      <td>Thymeleaf</td>
+      <td>★★★★☆</td>
+    </tr>
     <tr>
       <td>Java</td>
       <td>★★★☆☆</td>
@@ -91,6 +99,14 @@
     <tr>
       <td>Spring Boot</td>
       <td>★★★☆☆</td>
+    </tr>
+       <tr>
+      <td>Oracle</td>
+      <td>★★★☆☆</td>
+    </tr>
+       <tr>
+      <td>Docker</td>
+      <td>★★☆☆☆</td>
     </tr>
    <tr>
       <td>GIT</td>
