@@ -58,11 +58,11 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="350px">Tecnologia/Metodologia</th>
-      <th width="350px">Classificação</th>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Ágil Scrum - Product Owner</td>
+      <td>Metodologia Ágil Scrum</td>
       <td>★★★★☆</td>
     </tr>
      <tr>
@@ -94,8 +94,8 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="350px">Habilidade</th>
-      <th width="350px">Classificação</th>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
