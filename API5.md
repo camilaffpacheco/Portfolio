@@ -12,6 +12,11 @@
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
 <p align="justify" style="font-family:roboto;"> Automatize a jornada de download de arquivos, armazenados em uma plataforma de vídeo, transferindo-os para a nuvem, através do desenvolvimento de um aplicativo como serviço, com apenas um menu de configuração para o usuário, que terá os parâmetros necessários para o processo de download do serviço automaticamente, gerando alertas em caso de erro no processamento. Salve os metadados do arquivo para criar um painel para monitorar a execução do serviço e, posteriormente, analisar resultados e indicadores.</p>
 
+  <a href="https://www.python.org/"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+ <a href="https://vuejs.org/"><img src = "https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
+ <a href="https://www.sqlite.org/index.html"><img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+ <a href="https://www.docker.com/"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+ <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a>
  
 </body>
 </html>
