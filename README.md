@@ -1,5 +1,5 @@
  <h1 align="center"> Portfólio das API´s - Camila Pacheco</h1>  
-Trabalho de Graduação na modalidade Portfólio das API´s (Aprendizagem por Projeto Integrador), apresentado à <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a>, necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados.
+<p align="justify">Trabalho de Graduação na modalidade Portfólio das API´s (Aprendizagem por Projeto Integrador), apresentado à <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a>, necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados.</p>
 <hr>
 <h2>👩🏻‍💻 Sobre mim</h2>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/64873345?v=4" width="20%"></p>
