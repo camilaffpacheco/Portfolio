@@ -14,8 +14,9 @@
 
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
  <div>
-    <a href="gttps://github.com">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the badge&logo=github&logoColor=white"/>
+        <a href="gttps://github.com">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
   <a href="https://www.python.org/"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
  <a href="https://vuejs.org/"><img src = "https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
  <a href="https://www.sqlite.org/index.html"><img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
