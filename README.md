@@ -14,4 +14,4 @@
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/camilaffpacheco/Portfolio/blob/main/API4.md">4° API:
 Doc-Docker - Plataforma para sincronização dos dados administrativos, financeiros e operacionais</a></li></p>
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/camilaffpacheco/Portfolio/blob/main/API5.md">5° API:
- TechNinjas- Automatização de transferência entre nuvens</a></li></p>
+ TechNinjas - Automatização de transferência entre nuvens</a></li></p>
