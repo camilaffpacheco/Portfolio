@@ -3,6 +3,8 @@
  
  <h1 align="center"> 4° API
  <br>
+    <img src="https://avatars.githubusercontent.com/u/101952277?s=48&v=4" height="10%" width="10%"/>
+ <br>
 <a href="https://github.com/Doc-Docker/APISubiter"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
 
