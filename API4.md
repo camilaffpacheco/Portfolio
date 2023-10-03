@@ -102,7 +102,7 @@
     </tr>
    <tr>
       <td>GIT</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
     </tr>
   </table>
   
