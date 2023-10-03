@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
     </tr>
     <tr>
       <td>VueJS</td>
