@@ -1,8 +1,10 @@
 <html>
 <body>
  
- <h1 align="center"> 5° API
+ <h1 align="center"> TechNinjas - 5° API
  <br>
+    <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/logo-techNinjass.png" height="15%" width="15%" />
+  <br>
 <a href="https://github.com/TechNinjass/midall-parent"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
 
