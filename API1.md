@@ -57,7 +57,7 @@
       <td>★★★☆☆</td>
     </tr>
     <tr>
-      <td>PostGreSQL</td>
+      <td>PostgreSQL</td>
       <td>★★★☆☆</td>
     </tr>	
     <tr>
