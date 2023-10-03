@@ -41,6 +41,7 @@
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
+   Como desenvolvedora , tive a oportunidade de
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
