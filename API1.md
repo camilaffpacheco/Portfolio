@@ -54,15 +54,15 @@
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum - Product Owner</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>	
     <tr>
       <td>Java</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>Java JRE</td>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
     </tr>
     <tr>
       <td>Comunicação</td>
@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
     </tr>
   </table>
             
