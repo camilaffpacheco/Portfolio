@@ -43,7 +43,19 @@
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-   Como desenvolvedora , tive a oportunidade de
+   Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvimento de diversas interfaces, 
+desde a fase inicial de prototipação até a entrega da interface final. Minhas responsabilidades incluíram 
+a criação das interfaces de cadastro de usuários, cadastro de chamados e entre outras. Contribuí também para a 
+implementação da lógica relacionada ao status e resolução de chamados. A lógica funcionava da seguinte maneira: 
+quando um usuário do tipo cliente abria um chamado, o status era definido como "Aberto" e o chamado era 
+imediatamente encaminhado para a lista de chamados dos usuários do tipo suporte. Quando o suporte aceitava o 
+chamado, o status era atualizado para "Em andamento". Por fim, quando o suporte fechava o chamado, o status 
+era alterado para "Fechado", o sistema registrava a data de encerramento do chamado e exigia a inclusão da 
+solução para o mesmo. Além dessas contribuições, também desenvolvi o recurso de Mapeamento, que é uma tela na 
+qual a equipe de suporte pode marcar e identificar com diversas formas os defeitos em um barco após uma 
+análise na visita. Este recurso permite que o suporte faça upload de um arquivo no formato PNG e acesse uma 
+variedade de ferramentas de edição, como lápis, formas, borracha, linhas e outras funcionalidades para realizar 
+anotações e marcações necessárias.
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
