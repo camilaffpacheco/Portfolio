@@ -70,7 +70,8 @@ anotações e marcações necessárias.
    Como desenvolvedora, tive a oportunidade de iniciar e aprimorar meus conhecimentos em Vue.js, 
 além de trabalhar com algumas bibliotecas específicas, como o Vue Drawing Canvas, que foi utilizado 
 na criação da ferramenta de mapeamento do sistema, e também a biblioteca primeVue, que foi usada para 
-a implementação de componentes gráficos no projeto. 
+a implementação de componentes gráficos no projeto. Também tive a chance de aprimorar minha lógica de 
+   programação e aprofundar e refinar meus conhecimentos em design.
  </p>
    
    <h3 align="center"> Hard Skills </h3>
