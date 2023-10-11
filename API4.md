@@ -67,6 +67,10 @@ anotações e marcações necessárias.
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
+   Como desenvolvedora, tive a oportunidade de iniciar e aprimorar meus conhecimentos em Vue.js, 
+além de trabalhar com algumas bibliotecas específicas, como o Vue Drawing Canvas, que foi utilizado 
+na criação da ferramenta de mapeamento do sistema, e também a biblioteca primeVue, que foi usada para 
+a implementação de componentes gráficos no projeto. 
  </p>
    
    <h3 align="center"> Hard Skills </h3>
