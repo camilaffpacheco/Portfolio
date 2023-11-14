@@ -45,6 +45,37 @@
   <p align="justify" style="font-family:roboto;">
    Com o projeto tive meu primeiro contato com o papel de Product Owner, adquiri habilidades de comunicação assertiva, estabelecendo uma comunicação clara e constante tanto com a empresa quanto com a equipe. Aprendi a compreender as necessidades do cliente e a priorizar tarefas de forma eficiente, garantindo uma entrega de valor e qualidade. Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Java e adquirir experiência inicial com o banco de dados PostGreSQL. Além disso, aprendi a Metodologia Ágil Scrum, incorporando os princípios e práticas dessa abordagem em nosso processo de desenvolvimento.
  </p>
+
+   
+  <h3 align="center">Tabela de Classificação</h3>
+  <table align="center">
+    <tr>
+      <th width="205px">Título</th>
+      <th width="85px">Nota</th>
+    </tr>
+    <tr>
+      <td>Nunca ouvi falar</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Ouvi falar</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Entendi</td>
+      <td>★★★☆☆</td>
+    </tr>
+       <tr>
+      <td>Sei fazer com ajuda</td>
+      <td>★★★★☆</td>
+    </tr>
+       <tr>
+      <td>Sei fazer com autonomia</td>
+      <td>★★★★★</td>
+    </tr>
+  </table>
+            
+ 
    
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
