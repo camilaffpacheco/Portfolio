@@ -59,66 +59,79 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
    Como desenvolvedora, tive a oportunidade de aperfeiçoar meu conhecimento em Frontend e adquirir uma experiência inicial com o template Thymeleaf. Além disso, adquiri habilidades na manipulação e integração de formulários do Google dentro do sistema. Também tive a chance de me envolver na criação de certificados dentro do contexto do projeto.
 Ademais, tive a oportunidade de continuar meu desenvolvimento no método ágil Scrum, o qual me proporcionou valiosas lições e novos conhecimentos.
  </p>
+
+   <h3 align="center">Tabela de Classificação</h3>
+  <table align="center">
+    <tr>
+      <th width="205px">Título</th>
+      <th width="85px">Nota</th>
+    </tr>
+    <tr>
+      <td>Nunca ouvi falar</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Ouvi falar</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Entendi</td>
+      <td>★★★☆☆</td>
+    </tr>
+       <tr>
+      <td>Sei fazer com ajuda</td>
+      <td>★★★★☆</td>
+    </tr>
+       <tr>
+      <td>Sei fazer com autonomia</td>
+      <td>★★★★★</td>
+    </tr>
+  </table>
    
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
+      <th width="280px">Tecnologia/Metodologia</th>
+      <th width="205px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
      <tr>
       <td>HTML5</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
         <tr>
       <td>CSS3</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
            <tr>
       <td>Thymeleaf</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>MySQL</td>
-      <td>★★★☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>	
     <tr>
       <td>Java</td>
-      <td>★★★☆☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
    <tr>
       <td>GIT</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
   </table>
   
   <h3 align="center">Soft Skills</h3>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
-    </tr>
-  </table>
+    <p align="justify" style="font-family:roboto;">
+  Proatividade, Comunicação, Organização e Planejamento
+ </p>
             
 </body>
 </html>
