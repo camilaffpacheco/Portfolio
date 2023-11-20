@@ -80,8 +80,8 @@
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="350px">Tecnologia/Metodologia</th>
-      <th width="350px">Classificação</th>
+      <th width="320px">Tecnologia/Metodologia</th>
+      <th width="90px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum - Product Owner</td>
