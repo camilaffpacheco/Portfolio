@@ -81,7 +81,7 @@
   <table align="center">
     <tr>
       <th width="320px">Tecnologia/Metodologia</th>
-      <th width="210px">Classificação</th>
+      <th width="205px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum - Product Owner</td>
