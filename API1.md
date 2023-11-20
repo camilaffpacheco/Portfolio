@@ -81,49 +81,34 @@
   <table align="center">
     <tr>
       <th width="320px">Tecnologia/Metodologia</th>
-      <th width="90px">Classificação</th>
+      <th width="210px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum - Product Owner</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>	
     <tr>
       <td>Java</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Java JRE</td>
-      <td>★★★★☆</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
    <tr>
       <td>GIT</td>
-      <td>★★★☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
   </table>
   
   <h3 align="center">Soft Skills</h3>
-  <table align="center">
-    <tr>
-      <th width="350px">Habilidade</th>
-      <th width="350px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★★</td>
-    </tr>
-  </table>
+  <p align="justify" style="font-family:roboto;">
+   Proatividade, Comunicação, Organização e Planejamento	
+  </p>
             
 </body>
 </html>
