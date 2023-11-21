@@ -12,7 +12,8 @@
  <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/logo midall.webp" height="20%" width="20%"/>
 
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> Automatização da jornada de download de arquivos, armazenados em uma plataforma de vídeo, transferindo-os para a nuvem, através do desenvolvimento de um aplicativo como serviço, com apenas um menu de configuração para o usuário, que terá os parâmetros necessários para o processo de download do serviço automaticamente, gerando alertas em caso de erro no processamento. Salvando os metadados do arquivo para criar um painel para monitorar a execução do serviço e, posteriormente, analisar resultados e indicadores.</p>
+<p align="justify" style="font-family:roboto;"> 
+ Neste projeto é proposto uma ferramenta para automatizar a jornada de download de arquivos, armazenados em uma plataforma de vídeo, transferindo-os para a nuvem, através do desenvolvimento de um aplicativo como serviço, com apenas um menu de configuração para o usuário, que terá os parâmetros necessários para o processo de download do serviço automaticamente, gerando alertas em caso de erro no processamento. Salvando os metadados do arquivo para criar um painel para monitorar a execução do serviço e, posteriormente, analisar resultados e indicadores.</p>
 
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
  <div>
