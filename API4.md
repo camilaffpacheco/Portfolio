@@ -13,7 +13,8 @@
   
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> Plataforma que sincroniza, gerencia e controla os dados administrativos, financeiros e operacionais da empresa. Com a falta de organização desses dados, ocorrem atrasos no atendimento de chamados e dificuldades na interpretação dos indicadores comerciais e financeiros. Nossa solução visa reduzir custos, agilizar tomadas de decisão, otimizar o tempo de atendimento e melhorar a resolução desses chamados.</p>
+<p align="justify" style="font-family:roboto;"> 
+ Neste projeto propõe-se o desenvolvimento de uma plataforma que sincroniza, gerencia e controla os dados administrativos, financeiros e operacionais da empresa. Com a falta de organização desses dados, ocorrem atrasos no atendimento de chamados e dificuldades na interpretação dos indicadores comerciais e financeiros. A solução visa reduzir custos, agilizar tomadas de decisão, otimizar o tempo de atendimento e melhorar a resolução desses chamados.</p>
   
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
  <div>
@@ -45,7 +46,7 @@
   <p align="justify" style="font-family:roboto;">
    Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvimento de diversas interfaces, 
 desde a fase inicial de prototipação até a entrega da interface final. Minhas responsabilidades incluíram 
-a criação das interfaces de cadastro de usuários, cadastro de chamados e entre outras. Contribuí também para a 
+a criação das interfaces de cadastro de usuários, cadastro de chamados, entre outras. Contribuí também para a 
 implementação da lógica relacionada ao status e resolução de chamados. A lógica funcionava da seguinte maneira: 
 quando um usuário do tipo cliente abria um chamado, o status era definido como "Aberto" e o chamado era 
 imediatamente encaminhado para a lista de chamados dos usuários do tipo suporte. Quando o suporte aceitava o 
@@ -70,7 +71,7 @@ anotações e marcações necessárias.
    Como desenvolvedora, tive a oportunidade de iniciar e aprimorar meus conhecimentos em Vue.js, 
 além de trabalhar com algumas bibliotecas específicas, como o Vue Drawing Canvas, que foi utilizado 
 na criação da ferramenta de mapeamento do sistema, e também a biblioteca primeVue, que foi usada para 
-a implementação de componentes gráficos no projeto. Também tive a chance de aprimorar minha lógica de 
+a implementação de componentes gráficos no projeto. Também, tive a chance de aprimorar minha lógica de 
    programação e aprofundar e refinar meus conhecimentos em design.
  </p>
    
