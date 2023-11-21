@@ -12,7 +12,7 @@
 <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/iacit-logo.jpg" height="115" width="230"/>
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> O iTruck é um sistema para o gerenciamento e controle da jornada de trabalho de motoristas que seja parametrizável visando à disponibilização de funcionalidades de planejamento, acompanhamento, controlando a jornada de trabalho de cada um desses colaboradores. Nosso sistema deverá oferecer um cadastro de funcionário de vários níveis de acesso, um cadastro para os dados do veículo, um cadastro para dados de filiais, um cadastro para dados de região e um cadastro para dados da jornada dos motorista.</p>
+<p align="justify" style="font-family:roboto;"> O iTruck é um sistema para o gerenciamento e controle da jornada de trabalho de motoristas que seja parametrizável visando à disponibilização de funcionalidades de planejamento, acompanhamento, controlando a jornada de trabalho de cada um desses colaboradores. O sistema proposto deverá oferecer um cadastro de funcionário de vários níveis de acesso, um cadastro para os dados do veículo, um cadastro para dados de filiais, um cadastro para dados de região e um cadastro para dados da jornada dos motorista.</p>
   
 <p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
 <p>
@@ -29,7 +29,7 @@
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como PO</h3>
  <p align="justify" style="font-family:roboto;">
-  Desempenhando o papel de Product Owner, uma das minhas principais contribuições foi capturar os requisitos de maneira clara, dessa forma pude construir o backlog do produto. A partir do backlog priorizei todos os itens de forma estratégica com base no valor para o cliente para garantir que as funcionalidades mais importantes fossem desenvolvidas primeiro. Além disso facilitei a comunicação entre todo o time e a empresa parceira, realizando perguntas.
+  Desempenhando o papel de Product Owner, uma das minhas principais contribuições foi capturar os requisitos de maneira clara. Dessa forma pude construir o backlog do produto. A partir do backlog priorizei todos os itens de forma estratégica com base no valor para o cliente para garantir que as funcionalidades mais importantes fossem desenvolvidas primeiro. Além disso, facilitei a comunicação entre todo o time e a empresa parceira, realizando perguntas.
  </p>
   <h3> Atribuições como Desenvolvedora</h3>
   <p align="justify" style="font-family:roboto;">
@@ -43,7 +43,7 @@
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   Com o projeto tive meu primeiro contato com o papel de Product Owner, adquiri habilidades de comunicação assertiva, estabelecendo uma comunicação clara e constante tanto com a empresa quanto com a equipe. Aprendi a compreender as necessidades do cliente e a priorizar tarefas de forma eficiente, garantindo uma entrega de valor e qualidade. Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Java e adquirir experiência inicial com o banco de dados PostGreSQL. Além disso, aprendi a Metodologia Ágil Scrum, incorporando os princípios e práticas dessa abordagem em nosso processo de desenvolvimento.
+   Com o projeto tive meu primeiro contato com o papel de Product Owner e adquiri habilidades de comunicação assertiva, estabelecendo uma comunicação clara e constante tanto com a empresa quanto com a equipe. Aprendi a compreender as necessidades do cliente e a priorizar tarefas de forma eficiente, garantindo uma entrega de valor e qualidade. Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Java e adquirir experiência inicial com o banco de dados PostGreSQL. Além disso, aprendi a Metodologia Ágil Scrum, incorporando os princípios e práticas dessa abordagem em nosso processo de desenvolvimento.
  </p>
 
    
