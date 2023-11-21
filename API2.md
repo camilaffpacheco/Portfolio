@@ -13,8 +13,8 @@
  
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> Com a pandemia do COVID-19, começamos a buscar cada vez mais formas de interagir de forma segura com outras pessoas, graças a tecnologia esse relacionamento à distância não foi um problema. Hoje em dia, trabalhamos de casa, falamos com nossos familiares por chamada de vídeo, fazemos reuniões e seminários por plataformas da web. Da mesma forma que tudo se adaptou durante esse período, com a educação e o ensino não podia ser diferente. <br>
-De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingressantes, mostra censo do Inep - um aumento de 4,7 vezes, com a pandemia, esse número só cresceu, não porque milhões de pessoas se matricularam em cursos EaD, mas sim pelo fato de que todas as instituições de ensino (em especial as que oferecem cursos presenciais) não podiam deixar de oferecer educação que é direito de todos.
+<p align="justify" style="font-family:roboto;"> Com a pandemia do COVID-19, começamos a buscar cada vez mais formas de interagir de forma segura com outras pessoas e graças a tecnologia esse relacionamento à distância não foi um problema. Hoje em dia, trabalhamos de casa, falamos com nossos familiares por chamada de vídeo, fazemos reuniões e seminários por plataformas da web. Da mesma forma que tudo se adaptou durante esse período, com a educação e o ensino não podia ser diferente. <br>
+De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingressantes, conforme o censo do Inep. Esse número só cresceu, não porque milhões de pessoas se matricularam em cursos EaD, mas pelo fato de que todas as instituições de ensino (em especial as que oferecem cursos presenciais) não podiam deixar de oferecer educação que é direito de todos.
  <br>
  Visando os fatores citados, a nEDUC é uma plataforma de ensino digital com ampla variedade de conteúdo de qualidade para superar as limitações do ensino no Brasil.
  </p>
@@ -44,7 +44,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-   Como desenvolvedora Frontend, desempenhei um papel na criação de diversas interfaces, incluindo recursos como Login, Cadastro de Cursos e Tarefas, entre outros. Um aspecto relevante da minha contribuição foi a utilização do template Thymeleaf, que combina a sintaxe HTML com atributos e expressões Thymeleaf específicas, permitindo uma inclusão dinâmica de valores e lógica nos templates. Além disso, fui responsável pela implementação dos certificados, que são automaticamente gerados e disponibilizados ao final de cada curso concluído pelos usuários. Também contribui com a criação das tarefas, as quais foram integradas aos formulários Google. Por fim, colaborei na seção de videoaulas, onde os usuários têm a capacidade de visualizar vídeos para o aprendizado.
+   Como desenvolvedora Frontend, desempenhei um papel na criação de diversas interfaces, incluindo recursos como Login, Cadastro de Cursos e Tarefas, entre outros. Um aspecto relevante da minha contribuição foi a utilização do template Thymeleaf, que combina a sintaxe HTML com atributos e expressões Thymeleaf específicas, permitindo uma inclusão dinâmica de valores e lógica nos templates. Além disso, fui responsável pela implementação dos certificados, que são automaticamente gerados e disponibilizados ao final de cada curso concluído pelos usuários. Também, contribui com a criação das tarefas, as quais foram integradas aos formulários Google. Por fim, colaborei na seção de videoaulas, onde os usuários têm a capacidade de visualizar vídeos para o aprendizado.
   </p>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
@@ -56,7 +56,7 @@ De 2009 a 2019, a modalidade EAD teve um salto de 378,9% em matrículas de ingre
  
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   Como desenvolvedora, tive a oportunidade de aperfeiçoar meu conhecimento em Frontend e adquirir uma experiência inicial com o template Thymeleaf. Além disso, adquiri habilidades na manipulação e integração de formulários do Google dentro do sistema. Também tive a chance de me envolver na criação de certificados dentro do contexto do projeto.
+   Como desenvolvedora, tive a oportunidade de aperfeiçoar meu conhecimento em Frontend e adquirir uma experiência inicial com o template Thymeleaf. Além disso, adquiri habilidades na manipulação e integração de formulários do Google dentro do sistema. Também, tive a chance de me envolver na criação de certificados dentro do contexto do projeto.
 Ademais, tive a oportunidade de continuar meu desenvolvimento no método ágil Scrum, o qual me proporcionou valiosas lições e novos conhecimentos.
  </p>
 
