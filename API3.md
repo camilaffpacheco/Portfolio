@@ -64,82 +64,67 @@
    Essa experiência também me permitiu adquirir novos conhecimentos em Thymeleaf e Java. Além disso, pude refinar meus conceitos de design.
  </p>
 
-<h3 align="center">Tabela de Classificação</h3>
-  <table align="center">
-    <tr>
-      <th width="205px">Título</th>
-      <th width="85px">Nota</th>
-    </tr>
-    <tr>
-      <td>Nunca ouvi falar</td>
-      <td>★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Ouvi falar</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Entendi</td>
-      <td>★★★☆☆</td>
-    </tr>
-       <tr>
-      <td>Sei fazer com ajuda</td>
-      <td>★★★★☆</td>
-    </tr>
-       <tr>
-      <td>Sei fazer com autonomia</td>
-      <td>★★★★★</td>
-    </tr>
-  </table>
-   
+ 
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
       <th width="280px">Tecnologia/Metodologia</th>
+     <th width="85px">Nota</th>
       <th width="205px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
+      <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
      <tr>
       <td>HTML5</td>
+       <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
         <tr>
       <td>CSS3</td>
+          <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>JavaScript</td>
+     <td>★★★★☆</td>
       <td>Sei fazer com ajuda</td>
     </tr>	
      <tr>
       <td>BootStrap</td>
+       <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
         <tr>
       <td>Thymeleaf</td>
+          <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Java</td>
+      <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
+      <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
        <tr>
       <td>Oracle</td>
+        <td>★★★★☆</td>
       <td>Sei fazer com ajuda</td>
     </tr>
        <tr>
       <td>Docker</td>
+        <td>★★★☆☆</td>
       <td>Entendi</td>
     </tr>
    <tr>
       <td>GIT</td>
+     <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
   </table>
