@@ -13,10 +13,8 @@
   
   
 <h2 style="font-family:roboto;"> Resumo do Projeto :page_with_curl:</h2>
-<p align="justify" style="font-family:roboto;"> Ferramenta para criar promoções de E-commerce, onde as mecânicas de promoções são feitas de forma flexível e
-  de rápida atualização no sistema. As regras de promoções são cadastradas e posteriormente aplicadas no momento em que os itens são adicionados ao carrinho. 
-  Atualmente implementamos e apresentaremos o cadastro dos produtos em várias promoções no servidor/ banco de dados, utilizando operadores lógicos para criar 
-  diferentes mecânicas de promoções, os descontos é aplicado na sacola de compra e possui uma visualização dedicada para conferência e escolha de possíveis 
+<p align="justify" style="font-family:roboto;"> Neste projeto é proposto uma ferramenta para criar promoções de E-commerce, onde as mecânicas de promoções são feitas de forma flexível e de rápida atualização no sistema. As regras de promoções são cadastradas e posteriormente aplicadas no momento em que os itens são adicionados ao carrinho. Foi implementado e apresentado o cadastro dos produtos em várias promoções no servidor/banco de dados, utilizando operadores lógicos para criar 
+  diferentes mecânicas de promoções. Os descontos são aplicados na sacola de compra e possuem uma visualização dedicada para conferência e escolha de possíveis 
   promoções. Além disso, há a autonomia fornecida ao usuário para editar, remover, arquivar ou desarquivar seus produtos e para editar, deletar, interromper 
   ou ativar promoções e da visualização prática e intuitiva dos produtos e promoções cadastradas através da listagem que possui um filtro para que seja 
   possível diferenciar quais os status de produtos e promoções. </p>
@@ -63,7 +61,7 @@
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
    Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Frontend e Lógica de Programação ao desenvolver um tipo de aplicação com o qual nunca havia tido contato anteriormente.
-   Essa experiência também me me permitiu adquirir novos conhecimentos em Thymeleaf e Java. Além disso pude refinar meus conceitos de design.
+   Essa experiência também me permitiu adquirir novos conhecimentos em Thymeleaf e Java. Além disso, pude refinar meus conceitos de design.
  </p>
 
 <h3 align="center">Tabela de Classificação</h3>
