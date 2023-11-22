@@ -36,6 +36,74 @@ Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvime
      <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="92%" width="92%" />
   </div>
 
+ <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
+  <p align="justify" style="font-family:roboto;">
+   Como desenvolvedora, tive a oportunidade de...
+ </p>
+   
+   <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="280px">Tecnologia/Metodologia</th>
+     <th width="85px">Nota</th>
+      <th width="205px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Ágil Scrum</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+    <tr>
+      <td>VueJS</td>      
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+     <tr>
+      <td>HTML5</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+        <tr>
+      <td>CSS3</td>
+           <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>	
+     <tr>
+      <td>Python</td>
+            <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Flask</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>SQLite</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+       <tr>
+      <td>Docker</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+   <tr>
+      <td>GIT</td>
+      <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+    <p align="justify" style="font-family:roboto;">
+  Proatividade, Comunicação, Organização e Planejamento
+ </p>
   
 </body>
 </html>
