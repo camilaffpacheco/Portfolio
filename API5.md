@@ -32,7 +32,10 @@
   <p align="justify" style="font-family:roboto;">
      Como desenvolvedora frontend, tive a oportunidade de contribuir na criação da identidade visual do projeto e no desenvolvimento de diversas interfaces, incluindo recursos como Tela Home, Tela de Configurações, Tela de Listagem de Arquivos, entre outros.
   </p>
-  <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="95%" width="95%" />
+  <div align="center">
+     <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="92%" width="92%" />
+  </div>
+
   
 </body>
 </html>
