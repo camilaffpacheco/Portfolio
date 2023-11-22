@@ -26,6 +26,12 @@
  <a href="https://www.docker.com/"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a>
  </div>
-     
+
+ <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
+  <h3> Atribuições como Desenvolvedora Frontend</h3>
+  <p align="justify" style="font-family:roboto;">
+     Como desenvolvedora frontend, tive a oportunidade de contribuir na criação da identidade visual do projeto e no desenvolvimento de diversas interfaces, incluindo recursos como Tela Home, Tela de Configurações, Tela de Listagem de Arquivos, entre outros.
+  </p>
+  
 </body>
 </html>
