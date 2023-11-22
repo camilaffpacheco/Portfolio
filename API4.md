@@ -59,7 +59,7 @@ variedade de ferramentas de edição, como lápis, formas, borracha, linhas e ou
 anotações e marcações necessárias.
   </p>
     <div align="center">
-     <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="92%" width="92%" />
+     <img src="https://github.com/camilaffpacheco/Portfolio/blob/main/imagens/imgBarco.png" height="92%" width="92%" />
   </div>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
