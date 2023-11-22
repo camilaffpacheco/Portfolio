@@ -30,7 +30,7 @@
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-     Como desenvolvedora frontend, tive a oportunidade de contribuir na criação da identidade visual do projeto e no desenvolvimento de diversas interfaces, incluindo recursos como Tela Home, Tela de Configurações, Tela de Listagem de Arquivos, entre outros.
+Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvimento de diversas interfaces, desde a fase inicial de prototipação até a entrega da interface final. Minhas responsabilidades incluíram a criação das interfaces, incluindo recursos como Tela Home, Tela de Configurações, Tela de Listagem de Arquivos, entre outros. Além disso pude contribuir também com a constituição da identidade visual do projeto.
   </p>
   <div align="center">
      <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="92%" width="92%" />
