@@ -78,74 +78,71 @@ a implementação de componentes gráficos no projeto. Também, tive a chance de
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
+      <th width="280px">Tecnologia/Metodologia</th>
+     <th width="85px">Nota</th>
+      <th width="205px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
-      <td>VueJS</td>
-      <td>★★★★☆</td>
+      <td>VueJS</td>      
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
      <tr>
       <td>HTML5</td>
-      <td>★★★★☆</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
         <tr>
       <td>CSS3</td>
-      <td>★★★★☆</td>
+           <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>★★★★☆</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>	
      <tr>
       <td>BootStrap</td>
-      <td>★★★★☆</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★☆☆</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★☆☆</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
        <tr>
       <td>Oracle</td>
-      <td>★★★☆☆</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
        <tr>
       <td>Docker</td>
-      <td>★★☆☆☆</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
    <tr>
       <td>GIT</td>
       <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
     </tr>
   </table>
   
   <h3 align="center">Soft Skills</h3>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
-    </tr>
-  </table>
+    <p align="justify" style="font-family:roboto;">
+  Proatividade, Comunicação, Organização e Planejamento
+ </p>
             
 </body>
 </html>
