@@ -58,6 +58,9 @@ análise na visita. Este recurso permite que o suporte faça upload de um arquiv
 variedade de ferramentas de edição, como lápis, formas, borracha, linhas e outras funcionalidades para realizar 
 anotações e marcações necessárias.
   </p>
+    <div align="center">
+     <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" height="92%" width="92%" />
+  </div>
  
  <h2 style="font-family:roboto;"> Funcionamento :chart_with_upwards_trend:</h2>
     <div align="center">
