@@ -111,7 +111,7 @@ Ademais, tive a oportunidade de continuar meu desenvolvimento no método ágil S
   
   <h3 align="center">Soft Skills</h3>
     <p align="justify" style="font-family:roboto;">
-  Proatividade, Comunicação, Organização e Planejamento
+     Como Desenvolvedora, aprimorei soft skills essenciais. A proatividade me permitiu antecipar estudos e pesquisas, para buscar soluções para o desafio proposto. Com planejamento mantive todas as tarefas organizadas, para que o cronograma fosse cumprido. Além disso, a comunicação foi essencial, para que a equipe estivesse alinhada com as expectativas da entrega.
  </p>
             
 </body>
