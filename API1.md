@@ -82,7 +82,7 @@
   
   <h3 align="center">Soft Skills</h3>
   <p align="justify" style="font-family:roboto;">
-   Proatividade, Comunicação, Organização e Planejamento	
+   Como Desenvolvedora e Product Owner, aprimorei soft skills essenciais. A proatividade na antecipação de desafios, aliada à comunicação assertiva, foi crucial para conduzir o projeto, estabelecendo objetivos claros entre empresa cliente e equipe de desenvolvimento. Além disso, a organização e o planejamento foram essenciais para o gerenciamento das tarefas.
   </p>
             
 </body>
