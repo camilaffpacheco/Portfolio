@@ -131,7 +131,7 @@
   
   <h3 align="center">Soft Skills</h3>
     <p align="justify" style="font-family:roboto;">
-  Proatividade, Comunicação, Organização e Planejamento
+Como Desenvolvedora, aprimorei soft skills essenciais. Com um planejamento organizado, aprofundei meus conhecimentos em tecnologias já familiares, permitindo-me contribuir com soluções para os desafios propostos, mantendo o cronograma de tarefas e entregas em dia. A comunicação eficiente foi fundamental para garantir que a equipe estivesse alinhada com as expectativas de entrega.
  </p>
             
 </body>
