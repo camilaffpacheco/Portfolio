@@ -27,6 +27,83 @@ A proposta consiste em uma solução abrangente, que inclui a coleta e o refinam
  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a>
 </div>
 
+ <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
+  <h3> Atribuições como Desenvolvedora Frontend</h3>
+  <p align="justify" style="font-family:roboto;">
+Como desenvolvedora Frontend, ...
+  </p>
+  <div align="center">
+     <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/mapa-glebas.PNG" height="92%" width="92%" />
+  </div>
+
+ <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
+  <p align="justify" style="font-family:roboto;">
+   Como desenvolvedora, tive a oportunidade de...
+ </p>
+   
+   <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="280px">Tecnologia/Metodologia</th>
+     <th width="85px">Nota</th>
+      <th width="205px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Ágil Scrum</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+    <tr>
+      <td>ReactJS</td>      
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+     <tr>
+      <td>HTML5</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+        <tr>
+      <td>CSS3</td>
+           <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+            <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>	
+     <tr>
+      <td>Python</td>
+            <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Flask</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+           <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+       <tr>
+      <td>Azure</td>
+           <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+   <tr>
+      <td>GIT</td>
+      <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+    <p align="justify" style="font-family:roboto;">
+  Proatividade, Comunicação, Organização e Planejamento
+ </p>
 
 </body>
 </html>
