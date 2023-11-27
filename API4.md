@@ -144,7 +144,7 @@ a implementação de componentes gráficos no projeto. Também, tive a chance de
   
   <h3 align="center">Soft Skills</h3>
     <p align="justify" style="font-family:roboto;">
-  Proatividade, Comunicação, Organização e Planejamento
+  Como Desenvolvedora, aprimorei soft skills essenciais. A proatividade me permitiu antecipar estudos e pesquisas, para buscar soluções para o desafio proposto, explorando novas tecnologias. Com organização, aprofundei meus conhecimentos em tecnologias já familiares e estudei a nova tecnologia. Com planejamento mantive todas as tarefas organizadas, para que o cronograma fosse cumprido. Além disso, a comunicação foi essencial, para que a equipe estivesse alinhada com as expectativas da entrega.
  </p>
             
 </body>
