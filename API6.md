@@ -8,5 +8,8 @@
 <a href="https://github.com/TechVisionn/tech-parent"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
 
+ <h2> Parceiro Acadêmico:<a href="https://visionaespacial.com/"> Visiona Espacial</a></h2>
+ <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/Logo_Visiona.png" height="40%" width="40%"/>
+
 </body>
 </html>
