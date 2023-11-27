@@ -17,5 +17,16 @@ O projeto visa a implementação de um Sistema de Informação Geográfica (SIG)
 
 A proposta consiste em uma solução abrangente, que inclui a coleta e o refinamento dos dados públicos do ProAgro, a reestruturação eficiente da base de dados e o desenvolvimento de um SIG personalizado. Este sistema visa simplificar e organizar as informações, proporcionando aos usuários uma compreensão mais fácil e facilitando a análise dos dados. A proposta busca simplificar e organizar as informações, proporcionando aos usuários uma compreensão mais fácil e facilitando a análise dos dados. Destaca-se a organização do banco de dados público do ProAgro para permitir consultas e análises rápidas no Sistema de Informações Geográficas.
  </p>
+
+<p><h2 id="tecnologias">Tecnologias :rocket: </h2></p>
+ <div> 
+ <a href="https://www.python.org/"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+ <a href="https://react.dev/"><img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+ <a href="https://www.mysql.com/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+ <a href="https://azure.microsoft.com/pt-br"><img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+ <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a>
+</div>
+
+
 </body>
 </html>
