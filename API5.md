@@ -102,8 +102,8 @@ Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvime
   
   <h3 align="center">Soft Skills</h3>
     <p align="justify" style="font-family:roboto;">
-  Proatividade, Comunicação, Organização e Planejamento
- </p>
+    Como Desenvolvedora, aprimorei soft skills essenciais. A proatividade me permitiu aprofundar conhecimentos em tecnologias já familiares, permitindo-me contribuir com soluções para os desafios propostos. A comunicação eficiente foi fundamental para que a equipe estivesse alinhada com as expectativas da entrega. Além disso, com planejamento mantive todas as tarefas organizadas, para que o cronograma fosse cumprido.
+    </p>
   
 </body>
 </html>
