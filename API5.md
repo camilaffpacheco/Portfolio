@@ -38,7 +38,7 @@ Como desenvolvedora Frontend, desempenhei um papel na concepção e desenvolvime
 
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   Como desenvolvedora, tive a oportunidade de...
+   Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em Vue.js. Durante o desenvolvimento do projeto utilizei algumas bibliotecas, destacando-se o uso da PrimeVue para a implementação de componentes gráficos, como tabelas de listagem. Além disso tive a chance de aprimorar e refinar meus conceitos de design. 
  </p>
    
    <h3 align="center"> Hard Skills </h3>
