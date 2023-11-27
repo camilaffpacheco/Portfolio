@@ -38,8 +38,8 @@ Como desenvolvedora Frontend, liderando o ciclo completo do projeto, concebi e e
 
  <h2 style="font-family:roboto;"> Aprendizados Efetivos :books:</h2>
   <p align="justify" style="font-family:roboto;">
-   Como desenvolvedora, tive a oportunidade de...
- </p>
+  Como desenvolvedora, tive a oportunidade de aprimorar meus conhecimentos em React.js. Durante o desenvolvimento do projeto utilizei algumas bibliotecas, destacando-se o uso da PrimeReact  para a implementação de componentes gráficos, como a Série Temporal, e também o uso do Leaflet para a realização do mapa do sistema. 
+  </p>
    
    <h3 align="center"> Hard Skills </h3>
   <table align="center">
