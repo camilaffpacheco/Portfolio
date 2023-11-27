@@ -30,7 +30,7 @@ A proposta consiste em uma solução abrangente, que inclui a coleta e o refinam
  <h2 style="font-family:roboto;"> Contribuições Individuais :black_nib:</h2>
   <h3> Atribuições como Desenvolvedora Frontend</h3>
   <p align="justify" style="font-family:roboto;">
-Como desenvolvedora Frontend, ...
+Como desenvolvedora Frontend, liderando o ciclo completo do projeto, concebi e executei utilizando ReactJS, PrimeReact e Leaflet. Desenvolvi o mapa do sistema para plotar glebas de soja em São Paulo, com recursos como exportação e busca. Além disso, implementei informações e série temporal em um modal, usando o componente Chart.js do PrimeReact, permitindo a exportação da série temporal como PNG.
   </p>
   <div align="center">
      <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/mapa-glebas.PNG" height="92%" width="92%" />
